@@ -1,4 +1,4 @@
-package pages;
+package qa.guru.allure.homework.pages;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;

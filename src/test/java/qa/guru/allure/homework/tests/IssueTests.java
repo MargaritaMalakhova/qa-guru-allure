@@ -1,13 +1,14 @@
-package tests;
+package qa.guru.allure.homework.tests;
 
 import com.codeborne.selenide.Condition;
 import io.qameta.allure.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import pages.MainPage;
-import pages.RepositoryPage;
-import pages.SearchRepositoryResultsPage;
+import qa.guru.allure.homework.pages.MainPage;
+import qa.guru.allure.homework.pages.RepositoryPage;
+import qa.guru.allure.homework.pages.SearchRepositoryResultsPage;
+
 
 import static com.codeborne.selenide.Selectors.withText;
 import static com.codeborne.selenide.Selenide.$;

@@ -1,4 +1,4 @@
-package pages;
+package qa.guru.allure.homework.pages;
 
 import io.qameta.allure.Step;
 
